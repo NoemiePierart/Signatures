@@ -1,0 +1,21 @@
+.navbar-lewagon {
+  justify-content: space-between;
+  background: white;
+  height: 42px;
+  border-bottom: 2px solid $grischic;
+  width: 96vw;
+  margin-left: 2vw;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 2;
+  background-color: white;
+}
+
+.navbar-nav {
+	padding-left: 8px
+}
+
+a.nav-link {
+	padding-bottom: 0px
+}

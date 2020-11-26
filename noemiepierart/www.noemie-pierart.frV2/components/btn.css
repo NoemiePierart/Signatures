@@ -1,0 +1,13 @@
+.btn-message {
+  background-color: $bleugris;
+  color: white;
+  margin-top: 8px;
+  margin-left: 40%;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.btn-message:hover {
+  opacity: 1;
+}
+

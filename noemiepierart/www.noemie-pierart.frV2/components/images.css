@@ -1,0 +1,57 @@
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 1;
+}
+
+.icon {
+  width: 60px;
+  height: 50px;
+  padding-right: 15px;
+
+}
+
+.icon-logo {
+	width: 45px;
+	height: 35px;
+	padding-right: 6px;
+	margin-top: 2px
+}
+
+.img-big{
+  border-radius: 8px;
+  width: 100%
+}
+
+#front-end, #back-end {
+	border-radius: 8px;
+	height: 140px;
+	margin-top: 8px;
+	background-size: cover;
+	padding: 0px;
+	box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	margin-left: 0px;
+	margin-right: 0px
+}
+
+#front-end {
+	padding-right: 6px
+}
+
+#back-end {
+	padding-left: 6px
+}
+
+.img-portfolio {
+	width: 24%;
+	height: 30%
+}
+
+.flag {
+	width: 30px;
+	height: 20px;
+	margin-left: 3px;
+	margin-right: 8px;
+	margin-top: 6px;
+}
